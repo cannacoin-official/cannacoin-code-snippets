@@ -14,4 +14,4 @@ Accessing the cannacoind JSON-RPC interface with [node-cannacoin](https://github
  - Create a transaction when you are offline that is spent once it is manually sent to the p2p network with [offlinetransaction.js](nodejs/offlinetransaction.js).
 
 ## postgres examples
-Leanr how to store cannacoin public addresses and transactions in a postgres database with [schema.sql](postgres/schema.sql).
+Learn how to store cannacoin public addresses and transactions in a postgres database with [schema.sql](postgres/schema.sql).
