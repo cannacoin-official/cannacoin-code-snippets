@@ -4,7 +4,7 @@ A repository of example code for interacting with dogecoin services.
 
 Please send pull requests with code contributions!
 
-![To the moon!](img/dogemoon.png)
+![To the moon!](img/cannacoin.png)
 
 ## node.js examples
 Accessing the dogecoind JSON-RPC interface with [node-dogecoin](https://github.com/countable/node-dogecoin).
