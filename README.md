@@ -4,7 +4,6 @@ A repository of example code for interacting with cannacoin services.
 
 Please send pull requests with code contributions!
 
-![To the moon!](img/cannacoin.png)
 
 ## node.js examples
 Accessing the cannacoind JSON-RPC interface with [node-cannacoin](https://github.com/countable/node-cannacoin).
